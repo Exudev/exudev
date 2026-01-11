@@ -46,5 +46,3 @@ I enjoy working on backend architectures, automation, and solving complex proble
 [![GitHub](https://img.shields.io/badge/GitHub-exudev-181717?style=for-the-badge&logo=github)](https://github.com/exudev)
 
 ---
-
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
