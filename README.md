@@ -42,7 +42,7 @@ I enjoy working on backend architectures, automation, and solving complex proble
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo_Díaz-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pablo-eduardo-diaz-hernandez-a1b457183/)
 [![Twitter](https://img.shields.io/badge/Twitter-@Pabloedudh-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Pabloedudh)
-[![Instagram](https://img.shields.io/badge/Instagram-@Pabloedud-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/httpablo_)
+[![Instagram](https://img.shields.io/badge/Instagram-@httpablo_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/httpablo_)
 [![GitHub](https://img.shields.io/badge/GitHub-exudev-181717?style=for-the-badge&logo=github)](https://github.com/exudev)
 
 ---
